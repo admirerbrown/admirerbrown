@@ -33,36 +33,31 @@
 <br>
 
 <p align="center">
-
-<!-- - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-<!-- - **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) -->
+<div>
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" title="Redux" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="Ruby on Rails" title="Ruby on Rails" />
+</div>
     
 <!-- <br> -->
 
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+include certicates from microverse here...
 
 <br>
 
