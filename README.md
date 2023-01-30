@@ -16,6 +16,9 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=admirerbrown&label=Profile%20views&color=0e75b6&style=flat" alt="admirerbrown/"/> </p> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salwa99" alt="salwa99"  width="450"
 
 - I'm passionate about Software Developement
 - Bass Guitarist
