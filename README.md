@@ -18,7 +18,7 @@
 - I'm passionate about Software Developement
 - Bass Guitarist
 - Currently learning Web Development at Microverse
-- I’m currently open for a new job opportunity, see my [projects](https://admirerbrown.github.io/portfolio/)
+- I’m currently open for a new job opportunity, see my [projects](https://samuelkyere-porfolio.netlify.app/)
 
 <br><br>
 
