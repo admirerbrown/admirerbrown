@@ -20,7 +20,7 @@
 - ⚙️ I design and build **workflow automation systems** that simplify processes and improve efficiency.  
 - 🐍 Most of my work involves **Python, Node.js, APIs, and data-driven automation**.  
 - 🧩 I focus on solving **real operational problems** with clean, maintainable code.  
-- 🔗 Explore my work and experiments [here]().
+
 
 <br><br>
 
