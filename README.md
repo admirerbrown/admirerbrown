@@ -34,7 +34,7 @@ $ engineering_principles
 reliable inputs → clear state → traceable outputs
 ```
 
-🌍 Open to remote, hybrid, or onsite &nbsp;|&nbsp; engineering collaborations
+🌍 Open to remote, hybrid, or onsite engineering collaborations
 
 📌 Selected projects are pinned below, with full case studies on my [portfolio](https://admirerbrown.github.io/samuel_kyere/#projects).
 
