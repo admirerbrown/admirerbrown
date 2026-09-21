@@ -1,86 +1,85 @@
-<h1 align="center">
-  <b>Hi, I'm Samuel Kyere</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi, I'm Samuel Kyere</h1>
+
+<h3 align="center">Full-Stack Software &amp; Integration Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Workflow+Automation+Engineer;Python+%26+Node.js+Developer;Building+Data-Driven+Systems;Turning+Processes+into+Automations;Open+to+New+Opportunities!">
+  <a href="https://admirerbrown.github.io/samuel_kyere/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;color=00FFFF&amp;size=20&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=60&amp;pause=1200&amp;lines=React%2C+Node.js+%26+Python+applications;Backend+services+%26+real-time+systems;Webhooks%2C+APIs+%26+multi-system+integrations;Grounded+AI+%26+RAG+pipelines">
+      <img alt="React, Node.js and Python applications, backend services, integrations, and grounded AI pipelines" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;color=0891B2&amp;size=20&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=60&amp;pause=1200&amp;lines=React%2C+Node.js+%26+Python+applications;Backend+services+%26+real-time+systems;Webhooks%2C+APIs+%26+multi-system+integrations;Grounded+AI+%26+RAG+pipelines">
+    </picture>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://admirerbrown.github.io/samuel_kyere/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/samuel-ntow-kyere/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@mr.kyere.s"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:mr.kyere.s@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
 ## 🧠 **About Me**
 
-<p align="center">
-  <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="380" height="260" style="margin-left:20px; border-radius:10px;">
-</p>
+I build the systems that connect code, data, automation, and AI. That means full-stack applications, backend services, event-driven integrations, and the data pipelines behind them, built to be observable, maintainable, and useful to the people who run them.
 
-<br><br>
+- 🧱 **Full-stack apps:** React and Vite frontends with Node.js and Express APIs, WebSockets, and PostgreSQL
+- 🔌 **Integrations and APIs:** webhooks, payload validation, and API contracts that keep systems in sync
+- 🤖 **AI systems:** retrieval pipelines and human-in-the-loop workflows for real operating environments
+- 📈 **Automation and data:** n8n workflows and auditable data pipelines that cut manual work
 
-- ⚙️ I design and build **workflow automation systems** that simplify processes and improve efficiency.  
-- 🐍 Most of my work involves **Python, Node.js, APIs, and data-driven automation**.  
-- 🧩 I focus on solving **real operational problems** with clean, maintainable code.  
+```text
+$ engineering_principles
+reliable inputs → clear state → traceable outputs
+```
 
+📍 Accra, Ghana &nbsp;|&nbsp; 🌍 Open to remote, hybrid, or onsite &nbsp;|&nbsp; 🟢 Available for engineering roles
 
-<br><br>
+📌 Selected projects are pinned below, with full case studies on my [portfolio](https://admirerbrown.github.io/samuel_kyere/#projects).
 
+---
 
-## 🛠️ **Core Skills**
+## 🛠️ **Core Stack**
 
-<p align="center">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/>
-</p>
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+
+**Data** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+
+**Integration + AI** &nbsp;
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/admirerbrown">
-    <img src="https://github-readme-stats.vercel.app/api?username=admirerbrown&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=00FFFF&icon_color=00FFFF&text_color=C0C0C0&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=admirerbrown&show_icons=true&layout=compact&title_color=00FFFF&text_color=C0C0C0&bg_color=0,000000,130F40" width="375"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=admirerbrown&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00FFFF&amp;icon_color=00FFFF">
+      <img alt="GitHub stats for admirerbrown" src="https://github-readme-stats.vercel.app/api?username=admirerbrown&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=0891B2&amp;icon_color=0891B2" width="450">
+    </picture>
   </a>
-</div>
+</p>
 
 ---
 
-## 🤝 **Let's Connect**
-
-<div align="left">
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/samuel-ntow-kyere-5036741b4/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin:  samuel ntow kyere-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="https://twitter.com/brown_admirer" target="_blank">
-      <img src="https://img.shields.io/badge/twitter:  @brown_admirer-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="mailto:admirerbrown@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail:  admirerBrown@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </li>
-</ul>
-</div>
-
----
-
-<div align="center">
-  <h3><b>“Automation done right looks like magic — until you see the code.” ⚙️</b></h3>
-</div>
+<p align="center">
+  <b>Have a product to build or systems to connect?</b> <a href="mailto:mr.kyere.s@gmail.com">Let's talk.</a>
+</p>
